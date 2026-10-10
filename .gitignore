@@ -1,0 +1,21 @@
+# STM32CubeIDE
+Debug/
+Release/
+.settings/
+.metadata/
+*.launch
+*.log
+*.elf
+*.map
+*.bin
+*.hex
+*.srec
+*.lst
+*.o
+*.d
+*.a
+*.su
+*.bak
+
+# 민감 정보
+Core/Inc/secrets.h
